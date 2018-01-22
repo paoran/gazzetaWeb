@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\obj\Release\ClassLibrary1.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\obj\Release\ClassLibrary1.pdb

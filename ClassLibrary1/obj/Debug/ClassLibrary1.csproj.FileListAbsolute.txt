@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+Z:\Documentos 2\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+Z:\Documentos 2\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+Z:\Documentos 2\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+Z:\Documentos 2\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+\\vmware-host\Shared Folders\Documentos 2\Visual Studio 2012\Projects\GazzetaWeb\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+\\vmware-host\Shared Folders\Documentos 2\Visual Studio 2012\Projects\GazzetaWeb\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+\\vmware-host\Shared Folders\Documentos 2\Visual Studio 2012\Projects\GazzetaWeb\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+\\vmware-host\Shared Folders\Documentos 2\Visual Studio 2012\Projects\GazzetaWeb\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
