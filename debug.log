@@ -1,0 +1,4 @@
+[1217/223738.005:ERROR:process_info.cc(632)] range at 0x9a5c3e1800000000, size 0x227 fully unreadable
+[1217/223738.105:ERROR:process_info.cc(632)] range at 0x9a5c3e7a00000000, size 0x227 fully unreadable
+[1217/223738.109:ERROR:process_info.cc(632)] range at 0x0, size 0x227 fully unreadable
+[1217/223808.191:ERROR:http_transport_win.cc(268)] WinHttpSendRequest: No se pudo resolver el nombre de servidor o su dirección  (0x2ee7)
